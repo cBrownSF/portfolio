@@ -3314,3 +3314,14 @@ input, select, textarea {
 			}
 
 	}
+  .button-add{
+      background-color: rgb(74, 202, 168);
+      appearance: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-family: "Lato", sans-serif;
+  font-weight:600px;
+ border-radius: 5px;
+  padding: .5em;
+}
